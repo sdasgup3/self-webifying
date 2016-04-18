@@ -222,3 +222,8 @@ body{
 	padding: 0 0 4px 23px;
 	background: url(http://www.computerhope.com/arrow.gif) no-repeat left top;
 }
+
+mark { 
+      background-color:#C0C0C0   ;
+      color: black;
+}
