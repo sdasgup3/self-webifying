@@ -1,10 +1,10 @@
 CMD=pdflatex
 
 
-all: Resume_Sweto.pdf Resume.pdf Resume_Job.pdf Coverletter.pdf 
+all: Resume_Swetosree.pdf Resume.pdf Resume_Job.pdf Coverletter.pdf 
 Resume: Resume.pdf
 Resume_Job: Resume_Job.pdf
-Resume_Sweto: Resume_Sweto.pdf
+Resume_Swetosree: Resume_Swetosree.pdf
 
 %.pdf: %.tex
 	$(CMD) $<
