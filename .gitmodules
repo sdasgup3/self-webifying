@@ -1,0 +1,3 @@
+[submodule "blog"]
+	path = blog
+	url = https://github.com/sdasgup3/sdasgup3.github.io
