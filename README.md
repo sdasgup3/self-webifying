@@ -1,2 +1,3 @@
-# self-webifying
-Repository of files to host my webpage
+[Webpage](http://web.engr.illinois.edu/~sdasgup3/)
+
+[Blog](https://sdasgup3.github.io/)
